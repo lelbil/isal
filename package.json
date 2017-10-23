@@ -1,0 +1,21 @@
+{
+  "name": "isal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "passport": "^0.4.0",
+    "passport-shutterstock-oauth2": "^1.1.1",
+    "shutterstock": "^0.13.0",
+    "unsplash-js": "^4.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
